@@ -1,0 +1,6 @@
+hi = "hello there"
+name = "ana"
+greet = hi + name  
+print(greet)
+greeting = hi + " " + name
+print(greeting)
